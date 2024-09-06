@@ -1,0 +1,15 @@
+Persönliche Webseite mit React
+
+User Stories
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| ---- | --------------- | ---- | ---------------------------------- |
+| 1    |       muss         |   funktional   | Als User möchte ich eine Webapp mit React.   |
+| 2    |       muss         |   funktional   | Als User möchte ich 4 Buttons auf der Seite.   |
+| 3    |       muss         |   funktional   | Als User möchte ich eine Menü Leiste.   |
+| 4    |       muss         |   funktional   | Als User möchte ich, dass sich die Webapp auf das Handy anpasst.   |
+
+Arbeitspakete
+| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A  | 24.11.23 |Filip Kritzner|200|200 |
+| 1.A  | 24.11.23 |Filip Kritzner|100|120 |
