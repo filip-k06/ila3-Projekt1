@@ -13,7 +13,7 @@ User Stories
 Arbeitspakete
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 23.-30.09.2024  |Filip Kritzner|200|300 |
+| 1.A  | 30.08.2024  |Filip Kritzner|200|300 |
 | 2.A  | 06.09.2024 |Filip Kritzner|100|120 |
 | 3.A  | 06.09.2024 |Filip Kritzner|100|80 |
 | 4.A  | 20.09.2024 |Filip Kritzner|180|245 |
