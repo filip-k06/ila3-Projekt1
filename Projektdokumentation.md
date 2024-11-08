@@ -18,4 +18,4 @@ Arbeitspakete
 | 3.A  | 06.09.2024 |Filip Kritzner|100|80 |
 | 4.A  | 20.09.2024 |Filip Kritzner|180|245 |
 | 5.A  | 20.09.2024 |Filip Kritzner|180|255 |
-| 6.A  | 06.09.2024 |Filip Kritzner|60|80 |
+| 6.A  | 01.11.2024 |Filip Kritzner|60|80 |
