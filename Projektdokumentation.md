@@ -3,7 +3,7 @@
 ## 1 Informieren
 
 ### 1.1 
-In diesem 
+In diesem Projekt entwickle ich eine persönliche Webseite mit React. Es soll eine Unterseite Über mich, Kontakt, Startseite und Portfolio geben.
 
 ### 1.2 User Stories
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
@@ -18,12 +18,18 @@ In diesem
 ### 1.3 Testfälle
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      Website ist geöffnet        |  Der User schaut sich um     |      Schöne Website mit gut gegliederten Elementen         |
+| 1.1  |      Browser ist geöffnet        | Website wird geöffnet   |      Die Webseite wird dynamisch von React geladen    |
+| 2.1  |     Website ist geöffnet         | Buttons werden gedrückt |      Unterseiten werden geladen     |
+| 3.1  |     Website ist geöffnet         | Navigationsleiste wird benutzt um zu navigieren |  Die Webseite öffnet die Unterseiten und die Links von GitHub und LinkedIn  |
+| 4.1  |     Handy ist entsperrt        | Website wird auf Handy geöffnet |  Webseite passt sich an das Handy an  |
+| 5.1  |     Website ist geöffnet         | Buttons für die Unterseiten werden betätigt |  Unterseite wie Kontakt, Über mich und Portfolio wird geöffnet  |
+| 6.1  |     Browser ist geöffnet         | Link: https://ila3-projekt1.netlify.app/portfolio wird aufgerufen  |  Seite öffnet sich  |
 
 ## 2 Planen
 | AP-№ | Zuständig | Beschreibung | geplante Zeit (min) |
 | ---- |  --------- | ------------ | ------------- |
-| 1.A  |   Lennard Bühler              |   Eine Homegage erstellen, welche schön aussieht         |240|
+| 1.A  |   Filip Kritzner              |   Eine Webseite mit React erstellen        |200|
+| 2.A  |   Filip Kritzner              |   Eine Homegage erstellen, welche schön aussieht         |100|
 
 ## 4 Realisieren
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
