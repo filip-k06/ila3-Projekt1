@@ -1,4 +1,4 @@
-Persönliche Webseite mit React
+# Persönliche Webseite mit React
 
 ## 1 Informieren
 
