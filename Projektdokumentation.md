@@ -23,7 +23,7 @@ In diesem Projekt entwickle ich eine persönliche Webseite mit React. Es soll ei
 | 3.1  |     Website ist geöffnet         | Navigationsleiste wird benutzt um zu navigieren |  Die Webseite öffnet die Unterseiten und die Links von GitHub und LinkedIn  |
 | 4.1  |     Handy ist entsperrt        | Website wird auf Handy geöffnet |  Webseite passt sich an das Handy an  |
 | 5.1  |     Website ist geöffnet         | Buttons für die Unterseiten werden betätigt |  Unterseite wie Kontakt, Über mich und Portfolio wird geöffnet  |
-| 6.1  |     Browser ist geöffnet         | Link: https://ila3-projekt1.netlify.app/portfolio wird aufgerufen  |  Seite öffnet sich  |
+| 6.1  |     Browser ist geöffnet         | Link: https://ila3-projekt1.netlify.app wird aufgerufen  |  Seite öffnet sich  |
 
 ## 2 Planen
 | AP-№ | Zuständig | Beschreibung | geplante Zeit (min) |
