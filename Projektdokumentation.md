@@ -29,7 +29,15 @@ In diesem Projekt entwickle ich eine persönliche Webseite mit React. Es soll ei
 | AP-№ | Zuständig | Beschreibung | geplante Zeit (min) |
 | ---- |  --------- | ------------ | ------------- |
 | 1.A  |   Filip Kritzner              |   Eine Webseite mit React erstellen        |200|
-| 2.A  |   Filip Kritzner              |   Eine Homegage erstellen, welche schön aussieht         |100|
+| 2.A  |   Filip Kritzner              |  Es gibt 4 Buttons auf der Seite      |100|
+| 3.A  |   Filip Kritzner              |  Es gibt eine Menüleiste     |100|
+| 4.A  |   Filip Kritzner              |  Auf Handy passt sich die Webseite an     |180|
+| 5.A  |   Filip Kritzner              |  Es gibt diverse Unterseiten     |180|
+| 6.A  |   Filip Kritzner              |  Die Webseite kann man über GitHub Pages finden   |60|
+
+## 3 Entscheiden
+
+Da das Veröffentlichen über GitHub Pages nicht funktioniert hat, habe ich mich umentschieden für Netlify.
 
 ## 4 Realisieren
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
@@ -47,7 +55,12 @@ In diesem Projekt entwickle ich eine persönliche Webseite mit React. Es soll ei
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |15.12.23|     Funktioniert      |  Mitrovic      |
+| 1.1  |09.11.24|     Funktioniert      |  Kritzner      |
+| 2.1  |09.11.24|     Funktioniert      |  Kritzner      |
+| 3.1  |09.11.24|     Funktioniert      |  Kritzner      |
+| 4.1  |09.11.24|     Funktioniert      |  Kritzner      |
+| 5.1  |09.11.24|     Funktioniert      |  Kritzner      |
+| 6.1  |09.11.24|     Funktioniert      |  Kritzner      |
 
 `Fazit:`
 
